@@ -3,7 +3,7 @@
 - 📫 How to reach me - nifalnasar@gmail.com
 
  <p align="center">
-  <img alt="security" width="500" src="Cyber Safety.gif">
+  <img alt="security" width="700" src="Cyber Safety.gif">
 </p>
 
 
