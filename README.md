@@ -3,12 +3,10 @@
 - 📫 How to reach me - nifalnasar@gmail.com
 
  <p align="center">
-  <img alt="security" width="500" src="//i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
+  <img alt="security" width="500" src="Cyber Safety.gif">
 </p>
 
-<p align="center">
-  <img alt="security" width="500" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" />
-</p>
+
 
 <!---
 Nifalnasar/Nifalnasar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
